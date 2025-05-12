@@ -54,37 +54,37 @@ Usage: Compare sales/profit by category, sub-category, or region.
 
 Example: Sales by Product Category.
 
-2. Line Chart
+**2. Line Chart**
 Usage: Show trends over time (monthly, quarterly, yearly).
 
 Example: Monthly Sales Trend or Year-over-Year Growth.
 
-3. Stacked Column Chart
+**3. Stacked Column Chart**
 Usage: Visualize contributions of sub-categories within a category.
 
 Example: Sales by Category broken down by Region.
 
-4. Card Visuals (KPI Cards)
+**4. Card Visuals (KPI Cards)**
 Usage: Display single, high-level KPIs such as Total Sales, Total Profit, etc.
 
 Example: KPI summary panel at the top of the report.
 
-5. Donut or Pie Chart
+**5. Donut or Pie Chart**
 Usage: Show distribution or share (not ideal for too many values).
 
 Example: Sales by Payment Method or Customer Type.
 
-6. Slicer Filters
+**6. Slicer Filters**
 Usage: Enable interactive filtering by Date, Category, Region, etc.
 
 Example: Month Selector or Region Filter.
 
-7. Treemap
+**7. Treemap**
 Usage: Hierarchical data visualization to show proportion.
 
 Example: Profit by Sub-Category within Category.
 
-8. Gauge Chart
+**8. Gauge Chart**
 Usage: Show progress toward a target (optional).
 
 Example: Monthly Sales Target Achievement.
