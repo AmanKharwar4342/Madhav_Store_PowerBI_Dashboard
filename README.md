@@ -3,7 +3,7 @@
 
 This repository contains a Power BI report that provides a comprehensive overview of **Madhav Store's** sales and performance data. The dashboard enables key stakeholders to make data-driven decisions by visualizing trends, monitoring KPIs, and identifying growth opportunities.
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 The report includes the following key sections:
 
