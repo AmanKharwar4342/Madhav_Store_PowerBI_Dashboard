@@ -99,3 +99,5 @@ Data used in this report is fictional/sample for demonstration purposes.
 
 Ensure sensitive data is removed before sharing or publishing this report.
 
+## Screenshots
+![Dashboard Preview](https://github.com/AmanKharwar4342/Madhav_Store_PowerBI_Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
