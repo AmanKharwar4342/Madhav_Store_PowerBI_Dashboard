@@ -49,7 +49,7 @@ KPI cards for quick executive summaries
 
 ## Visual Types Used in the Madhav Store Power BI Report
 
-1. Clustered Bar Chart
+**1. Clustered Bar Chart**
 Usage: Compare sales/profit by category, sub-category, or region.
 
 Example: Sales by Product Category.
