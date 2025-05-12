@@ -1,5 +1,5 @@
-# Madhav_Store_PowerBI_Dashboar
-# 🛍️ Madhav Store Power BI Dashboard
+# Madhav_Store_PowerBI_Dashboard
+# Project Overview
 
 This repository contains a Power BI report that provides a comprehensive overview of **Madhav Store's** sales and performance data. The dashboard enables key stakeholders to make data-driven decisions by visualizing trends, monitoring KPIs, and identifying growth opportunities.
 
@@ -29,13 +29,6 @@ The report includes the following key sections:
 - **Time-Based Analysis**
   - Month-on-month and year-on-year comparisons
   - Seasonality insights
-
-## 📂 File Structure
-
-📁 Madhav-Store-PowerBI
-├── Madhav Store.pbix # Main Power BI report file
-└── README.md # Project documentation
-
 
 ##  How to Use
 
