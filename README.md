@@ -30,7 +30,7 @@ The report includes the following key sections:
   - Month-on-month and year-on-year comparisons
   - Seasonality insights
 
-##  How to Use
+##  Getting Started
 
 1. Clone this repository:
    ```bash
